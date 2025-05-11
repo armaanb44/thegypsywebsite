@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import 'react-datepicker/dist/react-datepicker.css';
+
+
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: sans-serif;
+  }
+  canvas {
+    display: block;
+  }
+  
