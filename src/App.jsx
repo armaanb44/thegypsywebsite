@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import LoginPage from './experience/bookings/loginPage'
 import CreateAccountPage from './experience/bookings/createAccountPage'
 import ForgotPasswordPage from './experience/bookings/forgotPasswordPage'
-import Experience from './Experience'
+import Experience from "./experience"
 import BookingPage from './experience/bookings/bookingPage'
 import BookingReview from './experience/bookings/bookingReviewPage'
 import PaymentPage from './experience/bookings/paymentPage'
